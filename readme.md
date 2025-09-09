@@ -11,7 +11,7 @@ This toolkit consists of four main analysis scripts designed to work with CSV da
 - **Pattern Replication** - Detection of repeating character sequences in messages
 - **Pseudo-BLAST Analysis** - Comparative slide analysis to find local alignment patterns between messages
 
-## Features
+## Details
 
 ### Character Frequency Analysis (`eam_characterfreqanalysis_.py`)
 - Analyze character frequencies in message content
