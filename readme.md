@@ -66,7 +66,7 @@ All scripts have fairly robust console instructions and printouts to walk the us
 
 ## Additional Configurations
 ### `eam_linegraph_.py`
-The following prefix groups have predefined group assignments:
+For demonstration purposes, following prefix groups have predefined group assignments:
 
 - **Group 1 (Green)**: YL, YT
 - **Group 2 (Orange)**: T5, F6  
@@ -74,4 +74,4 @@ The following prefix groups have predefined group assignments:
 - **Group 4 (Pink)**: 6K, JC
 - **Uncategorized**: All other prefixes
 
-Modify the `PREFIX_GROUPS` dictionary in `eam_linegraph_.py` to customize groupings.
+Modify the `PREFIX_GROUPS` dictionary in `eam_linegraph_.py` to customize groupings. _(Note: prefixes may eventually be reused in future years and end up being assigned to different 'groups'; the script as it currently exists cannot handle this.)_
